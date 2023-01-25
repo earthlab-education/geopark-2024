@@ -1,5 +1,7 @@
 <img style="float: left;" src="https://www.geo-park.com/wp-content/uploads/2022/01/geopark-logo.svg" width="200" height="100"><img style="float: left;" src="https://drive.google.com/uc?export=view&id=13_P0Dq9rb1aXFFVfspMRn5hlP7t8RuwC" width="200" height="100"><img style="float: left;" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png" width="250" height="100">
 
+# 
+
 # **GeoPark Python Training Workshops - Spring 2023**
 
 Welcome to the Python training workshops for GeoPark! We are excited to have you in class for the next 10 weeks as we introduce you to Earth Data Science fundamentals using Python.
