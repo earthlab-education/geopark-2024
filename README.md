@@ -3,7 +3,7 @@
 
 # **GeoPark Python Workshops - Spring 2023**
 
-Welcome to the Python training workshops for GeoPark! We are excited to have you in class for the next 10 weeks as we introduce you to Earth Data Science fundamentals using Python.
+Welcome to the Python workshops for GeoPark! We are excited to have you in class for the next 10 weeks as we introduce you to Earth Data Science fundamentals using Python.
 
 This series of workshops represents a partnership between GeoPark and Earth Lab, a part of the Cooperative Institute for Environmental Sciences (CIRES) at the University of Colorado Boulder. We are also affiliated with the National Oceanic and Atmospheric Administration (NOAA). We appreciate this partnership and look forward working with you all.
 
