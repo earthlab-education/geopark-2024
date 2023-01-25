@@ -1,6 +1,5 @@
-<img style="float: left;" src="https://www.geo-park.com/wp-content/uploads/2022/01/geopark-logo.svg" width="200" height="100"><img style="float: left;" src="https://drive.google.com/uc?export=view&id=13_P0Dq9rb1aXFFVfspMRn5hlP7t8RuwC" width="200" height="100"><img style="float: left;" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png" width="250" height="100">
+<img style="float: left;" src="https://www.geo-park.com/wp-content/uploads/2022/01/geopark-logo.svg" width="200" height="100"> <img style="float: left;" src="https://drive.google.com/uc?export=view&id=13_P0Dq9rb1aXFFVfspMRn5hlP7t8RuwC" width="200" height="100"> <img style="float: left;" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png" width="250" height="100">
 
-# **----------------------------------------------------------------**
 
 # **GeoPark Python Training Workshops - Spring 2023**
 
@@ -19,7 +18,7 @@ This series of workshops represents a partnership between GeoPark and Earth Lab,
 
 * Interim Director of Education - Earth Lab
 * **Email:** _[naqu1888@colorado.edu](naqu1888@colorado.edu)_
-* **Website:** _https://earthlab.colorado.edu/our-team/nathan-quarderer_
+* **Website:** _[https://earthlab.colorado.edu/our-team/nathan-quarderer](https://earthlab.colorado.edu/our-team/nathan-quarderer)_
 
 ----------------------------------------------------------------
 
@@ -29,7 +28,7 @@ This series of workshops represents a partnership between GeoPark and Earth Lab,
 
 * Education Trainer - Earth Lab
 * **Email:** _[elcu4811@colorado.edu](elcu4811@colorado.edu)_
-* **Website:** _https://earthlab.colorado.edu/our-team/elsa-culler_
+* **Website:** _[https://earthlab.colorado.edu/our-team/elsa-culler](https://earthlab.colorado.edu/our-team/elsa-culler)_
 
 ## **Textbook**
 https://www.earthdatascience.org/
@@ -38,7 +37,7 @@ https://www.earthdatascience.org/
 * **Monday** (10a - 12:30p GMT-5; 8a-10:30a MT)
 * **Thursday** (10a - 11:30a GMT-5; 8a-9:30a MT)
 
-### **Zoom link:** _**https://cuboulder.zoom.us/j/6928975735**_
+### **Zoom link:** _[**https://cuboulder.zoom.us/j/6928975735**](https://cuboulder.zoom.us/j/6928975735)_
 
 ## **Calendar**
 * **Week 0** - Jan 30 (Mon), Jan 31 (**Tues** *)
