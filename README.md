@@ -31,7 +31,7 @@ This series of workshops represents a partnership between GeoPark and Earth Lab,
 * **Website:** _[https://earthlab.colorado.edu/our-team/elsa-culler](https://earthlab.colorado.edu/our-team/elsa-culler)_
 
 ## **Textbook**
-https://www.earthdatascience.org/
+[https://www.earthdatascience.org/[(https://www.earthdatascience.org/)
 
 ## **Workshop schedule**
 * **Monday** (10a - 12:30p GMT-5; 8a-10:30a MT)
