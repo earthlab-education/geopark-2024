@@ -9,7 +9,7 @@ This series of workshops represents a partnership between GeoPark and Earth Lab,
 
 
 
-## **Instructor contact**
+## **Instructor Contact**
 
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="100" height="100">
 
