@@ -11,7 +11,7 @@ This series of workshops represents a partnership between GeoPark and Earth Lab,
 
 ## **Instructor Contact**
 
-<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="100" height="100">
+<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="125" height="125">
 
 **Nathan Quarderer, PhD** 
 
@@ -22,7 +22,7 @@ This series of workshops represents a partnership between GeoPark and Earth Lab,
 
 ----------------------------------------------------------------
 
-<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/Elsa%20Culler%20-%20reduced.jpg?itok=RWCtw7K7" width="100" height="100">
+<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/Elsa%20Culler%20-%20reduced.jpg?itok=RWCtw7K7" width="125" height="125">
 
 **Elsa Culler, PhD**
 
