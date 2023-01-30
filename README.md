@@ -46,11 +46,11 @@ This series of workshops represents a partnership between GeoPark and Earth Lab,
 ### **Zoom link:** _[**https://cuboulder.zoom.us/j/6928975735**](https://cuboulder.zoom.us/j/6928975735)_
 
 ## **Calendar**
-* **Week 0** - Jan 30 (Mon), Jan 31 (**Tues** *)
+* **Week 0** - Jan 30 (Mon)
   * Introductions
   * Tool + infrastructure overview
-  * **Python** fundamentals
 * **Week 1** - Feb 6 (Mon), Feb 9 (Thurs)
+  * **Python** fundamentals
   * Tabular data with **pandas**
 * **Week 2** - Feb 13 (Mon), Feb 16 (Thurs)
   * Plotting with **Matplotlib**
