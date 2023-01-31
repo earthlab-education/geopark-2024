@@ -5,7 +5,7 @@
 
 Welcome to the Python workshops for GeoPark! We are excited to have you in class for the next 10 weeks as we introduce you to Earth Data Science fundamentals using Python.
 
-This series of workshops represents a partnership between GeoPark and [Earth Lab](https://earthlab.colorado.edu/), a part of the Cooperative Institute for Environmental Sciences ([CIRES](https://cires.colorado.edu/)) at the [University of Colorado Boulder](https://www.colorado.edu/). We are also affiliated with the National Oceanic and Atmospheric Administration ([NOAA](https://www.noaa.gov/)). We appreciate this partnership and look forward working with you all.
+This series of workshops represents a partnership between [GeoPark](https://www.geo-park.com/) and [Earth Lab](https://earthlab.colorado.edu/), a part of the Cooperative Institute for Environmental Sciences ([CIRES](https://cires.colorado.edu/)) at the [University of Colorado Boulder](https://www.colorado.edu/). We are also affiliated with the National Oceanic and Atmospheric Administration ([NOAA](https://www.noaa.gov/)). We appreciate this partnership and look forward working with you all.
 
 
 
