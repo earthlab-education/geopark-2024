@@ -1,6 +1,5 @@
 <img style="float: left;" src="https://www.geo-park.com/wp-content/uploads/2022/01/geopark-logo.svg" width="280" height="175"> <img style="float: left;" src="https://drive.google.com/uc?export=view&id=13_P0Dq9rb1aXFFVfspMRn5hlP7t8RuwC" width="290" height="175"> <img style="float: left;" src="https://csl.noaa.gov/partnerships/images/cilogos.png" width="400" height="200">
 
-----------------------------------------------------------------
 
 # **GeoPark Python Workshops - Spring 2023**
 
