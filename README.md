@@ -2,7 +2,9 @@
 
 <img style="float: left;" src="https://www.geo-park.com/wp-content/uploads/2022/01/geopark-logo.svg" width="280" height="175"> <img style="float: left;" src="https://drive.google.com/uc?export=view&id=13_P0Dq9rb1aXFFVfspMRn5hlP7t8RuwC" width="290" height="175"> <img style="float: left;" src="https://csl.noaa.gov/partnerships/images/cilogos.png" width="400" height="200">
 
+
 Welcome to the Python workshops for GeoPark! We are excited to have you in class for the next 10 weeks as we introduce you to Earth Data Science fundamentals using Python.
+
 
 This series of workshops represents a partnership between [GeoPark](https://www.geo-park.com/) and [Earth Lab](https://earthlab.colorado.edu/), a part of the Cooperative Institute for Environmental Sciences ([CIRES](https://cires.colorado.edu/)) at the [University of Colorado Boulder](https://www.colorado.edu/). We are also affiliated with the National Oceanic and Atmospheric Administration ([NOAA](https://www.noaa.gov/)). We appreciate this partnership and look forward working with you all.
 
