@@ -1,4 +1,4 @@
-<img style="float: left;" src="https://www.geo-park.com/wp-content/uploads/2022/01/geopark-logo.svg" width="280" height="175"> <img style="float: left;" src="https://drive.google.com/uc?export=view&id=13_P0Dq9rb1aXFFVfspMRn5hlP7t8RuwC" width="290" height="175"> <img style="float: left;" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png" width="400" height="190">
+<img style="float: left;" src="https://www.geo-park.com/wp-content/uploads/2022/01/geopark-logo.svg" width="280" height="175"> <img style="float: left;" src="https://drive.google.com/uc?export=view&id=13_P0Dq9rb1aXFFVfspMRn5hlP7t8RuwC" width="290" height="175"> <img style="float: left;" src="https://csl.noaa.gov/partnerships/images/cilogos.png" width="400" height="200">
 
 
 # **GeoPark Python Workshops - Spring 2023**
@@ -40,36 +40,36 @@ This series of workshops represents a partnership between [GeoPark](https://www.
 [https://classroom.github.com/classrooms/23106100-geopark-2023](https://classroom.github.com/classrooms/23106100-geopark-2023)
 
 ## **Workshop schedule**
-* **Monday** (10a - 12:30p GMT-5; 8a-10:30a MT)
-* **Thursday** (10a - 11:30a GMT-5; 8a-9:30a MT)
+* **Monday** (10a - 12:30p GMT-5; 8a-11:00a MT)
+* **Thursday** (10a - 11:30a GMT-5; 8a-10:30a MT)
 
-### **Zoom link:** _[**https://cuboulder.zoom.us/j/6928975735**](https://cuboulder.zoom.us/j/6928975735)_
+### **Zoom link:** _[**NEED LINK HERE**](NEED LINK HERE)_
 
 ## **Calendar**
-* **Week 0** - Jan 30 (Mon)
+* **Week 0** - Dec 11 (Mon)
   * Introductions
   * Tool + infrastructure overview
-* **Week 1** - Feb 6 (Mon), Feb 9 (Thurs)
+* **Week 1** - Jan 16 (Tues), Jan 18 (Thurs)
   * **Python** fundamentals
   * Tabular data with **pandas**
-* **Week 2** - Feb 13 (Mon), Feb 16 (Thurs)
+* **Week 2** - Jan 22 (Mon), Jan 25 (Thurs)
   * Plotting with **Matplotlib**
-* **Week 3** - Feb 20 (Mon), Feb 23 (Thurs)
+* **Week 3** - Jan 29 (Mon), Feb 1 (Thurs)
   * Automating workflows using **loops** and **conditional statements**
   * Requesting data using an application programming interface (**API**)
-* **Week 4** - Feb 27 (Mon), March 2 (Thurs)
+* **Week 4** - Feb 5 (Mon), Feb 8 (Thurs)
   * **Time-series** data
-* **Week 5** - March 6 (Mon), March 9 (Thurs)
+* **Week 5** - Feb 12 (Mon), Feb 15 (Thurs)
   * Vector spatial data with **Geopandas**
-* **Week 6** - March 13 (Mon), March 16 (Thurs)
+* **Week 6** - Feb 19 (Mon), Feb 22 (Thurs)
   * Raster spatial data with **rioxarray**
-* **Week 7** - March 21 (**Tues** *), March 23 (Thurs)
+* **Week 7** - Feb 26 (Mon), Feb 29 (Thurs)
   * Spatial data **applications**
-* **Week 8** - March 27 (Mon), March 30 (Thurs)
+* **Week 8** - March 4 (Mon), March 7 (Thurs)
   * Group **project** work time
-* **Week 9** - April 3 (Mon) 
+* **Week 9** - March 11 (Mon), March 14 (Thurs)
   * Group **project** work time
-* **Week 10** - April 10 (Mon)
+* **Week 10** - March 19 (Mon), March 21 (Thurs)
   * Project **presentations**
 
 
