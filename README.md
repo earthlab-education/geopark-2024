@@ -8,4 +8,5 @@ This is a repository for the GeoPark Earth Data Science Workshops, Spring 2024. 
 | ---- | --------------- | ------------- |
 | Elsa Culler | eculler | https://eculler.github.io/ |
 | Nate Quarderer| nquarder | https://nquarder.github.io/ |
+| Name | username | link |
 
