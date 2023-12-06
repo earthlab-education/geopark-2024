@@ -38,7 +38,7 @@ This series of workshops represents a partnership between [GeoPark](https://www.
 [https://github.com/earthlab-education/geopark-2023](https://github.com/earthlab-education/geopark-2023)
 
 ## **GitHub Classroom**
-[https://classroom.github.com/classrooms/23106100-geopark-2023](https://classroom.github.com/classrooms/23106100-geopark-2023)
+[https://classroom.github.com/classrooms/23106100-geopark-2024](https://classroom.github.com/classrooms/23106100-geopark-2024)
 
 ## **Workshop schedule**
 * **Monday** (10a - 12:30p GMT-5; 8a-11:00a MT)
