@@ -10,4 +10,4 @@ This is a repository for the GeoPark Earth Data Science Workshops, Spring 2024. 
 | Nate Quarderer| nquarder | https://nquarder.github.io/ |
 | Name | username | link |
 | Fabio | fabioaco | https://fabioaco.github.io/ |
-
+| Natalia B | nbaqueror | https://nbaqueror.github.io/ |
