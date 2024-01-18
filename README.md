@@ -10,5 +10,5 @@ This is a repository for the GeoPark Earth Data Science Workshops, Spring 2024. 
 | Nate Quarderer| nquarder | https://nquarder.github.io/ |
 | Name | username | link |
 | Fabio | fabioaco | https://fabioaco.github.io/ |
-| Adriana | AGomezPrada | https://AGomezPrada.github.io/ |
+| Adriana | AGomezPrada | https://AGomezPrada.github.io/Phyton-Course_2/|
 | Carlos | Carlos-Diaz-Lozano | https://Carlos-Diaz-Lozano.github.io/ |
