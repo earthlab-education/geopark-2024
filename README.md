@@ -11,3 +11,4 @@ This is a repository for the GeoPark Earth Data Science Workshops, Spring 2024. 
 | Name | username | link |
 | Fabio | fabioaco | https://fabioaco.github.io/ |
 | Adriana | AGomezPrada | https://AGomezPrada.github.io/ |
+| Carlos | Carlos-Diaz-Lozano | https://Carlos-Diaz-Lozano.github.io/ |
