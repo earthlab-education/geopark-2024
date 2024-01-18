@@ -50,6 +50,7 @@ This series of workshops represents a partnership between [GeoPark](https://www.
 * **Week 0** - Dec 11 (Mon)
   * Introductions
   * Tool + infrastructure overview
+  * [Recording - Welcome Workshop - 12/11/23](https://cuboulder.zoom.us/rec/share/IPJTT25DTgVtfDjrQflvKBnnxB3zw3AgF6C7uh6rqoh-QXm-qY0QrLiTJCOOkhDC.4rK1wiBPrfjzM34v)
 * **Week 1** - Jan 16 (Tues), Jan 18 (Thurs)
   * **Python** fundamentals
   * Tabular data with **pandas**
