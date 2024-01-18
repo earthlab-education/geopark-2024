@@ -1,6 +1,6 @@
 # **GeoPark Python Workshops - Spring 2024**
 
-<img src="https://www.geo-park.com/wp-content/uploads/2022/01/geopark-logo.svg" width="200" height="150"><img src="https://drive.google.com/uc?export=view&id=13_P0Dq9rb1aXFFVfspMRn5hlP7t8RuwC" width="180" height="120"><img src="https://csl.noaa.gov/partnerships/images/cilogos.png" width="250" height="150">
+<img src="https://www.geo-park.com/wp-content/uploads/2022/01/geopark-logo.svg" width="200" height="150"><img src="https://pbs.twimg.com/profile_images/1102342372438925312/64xKJFPk_400x400.png" width="180" height="150"><img src="https://csl.noaa.gov/partnerships/images/cilogos.png" width="250" height="150">
 
 
 Welcome to the Python workshops for GeoPark! We are excited to have you in class for the next 10 weeks as we introduce you to Earth Data Science fundamentals using Python.
@@ -35,7 +35,7 @@ This series of workshops represents a partnership between [GeoPark](https://www.
 [https://www.earthdatascience.org/](https://www.earthdatascience.org/)
 
 ## **Course GitHub Repository**
-[https://github.com/earthlab-education/geopark-2023](https://github.com/earthlab-education/geopark-2023)
+[https://github.com/earthlab-education/geopark-2024](https://github.com/earthlab-education/geopark-2024)
 
 ## **GitHub Classroom**
 [https://classroom.github.com/classrooms/23106100-geopark-2024](https://classroom.github.com/classrooms/23106100-geopark-2024)
@@ -50,10 +50,12 @@ This series of workshops represents a partnership between [GeoPark](https://www.
 * **Week 0** - Dec 11 (Mon)
   * Introductions
   * Tool + infrastructure overview
-  * [Recording - Welcome Workshop - 12/11/23](https://cuboulder.zoom.us/rec/share/IPJTT25DTgVtfDjrQflvKBnnxB3zw3AgF6C7uh6rqoh-QXm-qY0QrLiTJCOOkhDC.4rK1wiBPrfjzM34v)
+  > * [Recording - Welcome Workshop - 12/11/23](https://cuboulder.zoom.us/rec/share/IPJTT25DTgVtfDjrQflvKBnnxB3zw3AgF6C7uh6rqoh-QXm-qY0QrLiTJCOOkhDC.4rK1wiBPrfjzM34v)
 * **Week 1** - Jan 16 (Tues), Jan 18 (Thurs)
-  * **Python** fundamentals
-  * Tabular data with **pandas**
+  * **Markdown** and **HTML** fundamentals
+  * Creating a profile with **GitHub pages**
+  > * [Recording - Intro to Markdown & GitHub - 1/16/24](https://cuboulder.zoom.us/rec/share/hyhF1WAwrzekoMllKcAXXTYOOjfxFhTokow2yD8bMzvBBfR1o3VZgO14_eIyVhl3.hQY_GRzj6a0okQkI)
+  > * [Recording - Intro to Markdown & GitHub - 1/18/24](https://cuboulder.zoom.us/rec/share/e35oiirMjN2T_EJ2Ih3XujKJNK6LoBWtROeuntH8zQP0dmDyPPgcCd7Kwz3g64ZU.EH5apnFnOBtNoGms)
 * **Week 2** - Jan 22 (Mon), Jan 25 (Thurs)
   * Plotting with **Matplotlib**
 * **Week 3** - Jan 29 (Mon), Feb 1 (Thurs)
