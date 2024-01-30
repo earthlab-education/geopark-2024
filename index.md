@@ -57,10 +57,11 @@ This series of workshops represents a partnership between [GeoPark](https://www.
   > * [Recording - Intro to Markdown & GitHub - 1/16/24](https://cuboulder.zoom.us/rec/share/hyhF1WAwrzekoMllKcAXXTYOOjfxFhTokow2yD8bMzvBBfR1o3VZgO14_eIyVhl3.hQY_GRzj6a0okQkI)
   > * [Recording - Intro to Markdown & GitHub - 1/18/24](https://cuboulder.zoom.us/rec/share/e35oiirMjN2T_EJ2Ih3XujKJNK6LoBWtROeuntH8zQP0dmDyPPgcCd7Kwz3g64ZU.EH5apnFnOBtNoGms)
 * **Week 2** - Jan 22 (Mon), Jan 25 (Thurs)
-  * Plotting with **Matplotlib**
+  * Introduction to Open & Reproducible Science; **GitHub Codespaces**
+  > * [Recording - Intro to Open/Reproducible Science - 1/22/24](https://cuboulder.zoom.us/rec/share/x40VddGnD9GkUbz4zuQ2ooNc3B0hvR4wkw1Eb4KMz_i-dqDUXMknQe60-9XJihOE.HzkV_hN8RYhGCti-)
 * **Week 3** - Jan 29 (Mon), Feb 1 (Thurs)
-  * Automating workflows using **loops** and **conditional statements**
-  * Requesting data using an application programming interface (**API**)
+  * Plotting with **Matplotlib**
+  > * [Recording - Intro to Plotting with Matplotlib - 1/29/24](https://cuboulder.zoom.us/rec/share/Ozz6aYUtLlsJZij04Gup_ms7-guzOHH5Ir-niYSMU2Sr2QhZYzPbIqN2U6ll1vjF.4-PNKnPBu9MqSJ_5)
 * **Week 4** - Feb 5 (Mon), Feb 8 (Thurs)
   * **Time-series** data
 * **Week 5** - Feb 12 (Mon), Feb 15 (Thurs)
