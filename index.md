@@ -63,11 +63,12 @@ This series of workshops represents a partnership between [GeoPark](https://www.
   * Plotting with **Matplotlib**
   > * [Recording - Intro to Plotting with Matplotlib - 1/29/24](https://cuboulder.zoom.us/rec/share/Ozz6aYUtLlsJZij04Gup_ms7-guzOHH5Ir-niYSMU2Sr2QhZYzPbIqN2U6ll1vjF.4-PNKnPBu9MqSJ_5)
 * **Week 4** - Feb 5 (Mon), Feb 8 (Thurs)
-  * **Time-series** data
+  * **No Class**
 * **Week 5** - Feb 12 (Mon), Feb 15 (Thurs)
-  * Vector spatial data with **Geopandas**
+  * **No Class**
 * **Week 6** - Feb 19 (Mon), Feb 22 (Thurs)
-  * Raster spatial data with **rioxarray**
+  * Tabular Data and **Pandas** dataframes
+  > * [Recording - Intro to Pandas Dataframes - 2/19/24](https://cuboulder.zoom.us/rec/share/6NMo7iF9q9miU9FkLPq5x2XYsES3y4zq6yacw1ZbXnEVa-p4Q_cRCaFGe3rnWxmm.5MR714ya4mrRhxuZ)
 * **Week 7** - Feb 26 (Mon), Feb 29 (Thurs)
   * Spatial data **applications**
 * **Week 8** - March 4 (Mon), March 7 (Thurs)
