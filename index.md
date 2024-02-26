@@ -70,7 +70,8 @@ This series of workshops represents a partnership between [GeoPark](https://www.
   * Tabular Data and **Pandas** dataframes
   > * [Recording - Intro to Pandas Dataframes - 2/19/24](https://cuboulder.zoom.us/rec/share/6NMo7iF9q9miU9FkLPq5x2XYsES3y4zq6yacw1ZbXnEVa-p4Q_cRCaFGe3rnWxmm.5MR714ya4mrRhxuZ)
 * **Week 7** - Feb 26 (Mon), Feb 29 (Thurs)
-  * Spatial data **applications**
+  * **Pandas** dataframes (cont.)
+  > * [Recording - Pandas Dataframes cont - 2/26/24](https://cuboulder.zoom.us/rec/share/DKUaZR8xvBu5X3xdZu_uyZ4RT78CRoBnIMnGDhHJwarzNbV8tTPvpGDLBdXdTzDT.8z8CMyUBwmSxUG8f)
 * **Week 8** - March 4 (Mon), March 7 (Thurs)
   * Group **project** work time
 * **Week 9** - March 11 (Mon), March 14 (Thurs)
