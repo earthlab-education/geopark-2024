@@ -73,7 +73,8 @@ This series of workshops represents a partnership between [GeoPark](https://www.
   * **Pandas** dataframes (cont.)
   > * [Recording - Pandas Dataframes cont - 2/26/24](https://cuboulder.zoom.us/rec/share/DKUaZR8xvBu5X3xdZu_uyZ4RT78CRoBnIMnGDhHJwarzNbV8tTPvpGDLBdXdTzDT.8z8CMyUBwmSxUG8f)
 * **Week 8** - March 4 (Mon), March 7 (Thurs)
-  * Group **project** work time
+  * **Geopandas** geodataframes
+  > * [Recording - GeoPandas Geodataframes - 03/04/24](https://cuboulder.zoom.us/rec/share/ty-c3yp7CVkz_eCEugcwVc_cvfAuzpzMHnC_ScNc3M-llg55RgYc6rwoO6Yhzz9r.AyuVnGrlWdJmuz9y)
 * **Week 9** - March 11 (Mon), March 14 (Thurs)
   * Group **project** work time
 * **Week 10** - March 19 (Mon), March 21 (Thurs)
