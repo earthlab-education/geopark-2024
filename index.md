@@ -79,7 +79,10 @@ This series of workshops represents a partnership between [GeoPark](https://www.
   * Spatial data with python cont. (**Geopandas**)
   > * [Recording - GeoPandas Geodataframes cont. - 03/11/24](https://cuboulder.zoom.us/rec/share/KcjqE1yekqqudzrBFUDCMvkMXp6LlJ0nExonEJZyGF5Yms8O1PYDI5GtYnvssf-1.JyT7n3Ds5XmfYNKV)
 * **Week 10** - March 19 (Mon), March 21 (Thurs)
-  * Project **presentations**
+  * **No Class**
+* **Week 11** - April 1 (Mon)
+  * Time-series data with Python
+  > * [Recording - Time-series Data](https://cuboulder.zoom.us/rec/share/ctrYO5AlkvDTVJImDgH9UNnR9qWJq7iuS13Wt8R5MeaUgi3kK7mbwuU2vbyNY_pL.YiAQScELMI-DrDof)
 
 
 ## **Code of Conduct** (borrowed from the [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html))
